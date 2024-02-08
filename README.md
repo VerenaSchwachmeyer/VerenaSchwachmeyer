@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Verena 👋
 
-<!--
-**VerenaSchwachmeyer/VerenaSchwachmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, thanks for visiting me here on my GitHub profile. If you haven't seen my portfolio website yet, you might want to check it out for more info about me: https://www.schwachmeyer.dev
 
-Here are some ideas to get you started:
+## Short intro about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My "coding experience" started back in 2011 when I worked on my phD thesis. I taught myself to write scripts in MATLAB in order to handle large datasets, synchronize and analyze them. My skills improved over time and I realized how much I enjoy coding. However, creating nice and handy UIs was still missing in my skillset - web development filled this gap and now I enjoy "crafting" different kind of full stack web apps. 
+
+I have been working primarily with ReactJS but reached a point where I couldn't ignore its limitations such as limited SEO or client-side rendering, leading among others to large first contentful paints (FCP). 
+This is why I moved on to NextJS. Currently, I am creating a NextJS app using the new app router and learning TypeScript. PHP and Shopware are next in my pipeline.
+
+
+ 
+
+
