@@ -1,4 +1,4 @@
-### Hi, I am Verena 👋
+# Hi, I am Verena 👋
 
 Hey, thanks for visiting me here on my GitHub profile. If you haven't seen my portfolio website yet, you might want to check it out for more info about me: https://www.schwachmeyer.dev
 
